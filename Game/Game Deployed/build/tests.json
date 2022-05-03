@@ -1,0 +1,15 @@
+{
+  "contracts": {
+    "Game": "b5c5c3bb4b1e2e598e8f2497aaa5d866864dc231"
+  },
+  "tests": {
+    "tests/test_game.py": {
+      "coverage": false,
+      "isolated": false,
+      "results": "..",
+      "sha1": "8b159fc015f4dbe9196dbaa07c46dcec03c5321d",
+      "txhash": []
+    }
+  },
+  "tx": {}
+}
