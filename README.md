@@ -11,7 +11,3 @@ The contract below is a gambling game where the 14th person to send ETH to the c
 ##
 
 **Deployed at:** https://rinkeby.etherscan.io/address/0x45Afcb66D847eABb04dD5439109EAcdc4d5F4c41.
-
----
-
-Nnaemeka.
