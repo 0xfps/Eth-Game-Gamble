@@ -26,7 +26,7 @@ contract Game {
         sent[msg.sender] = true;
         count ++;
 
-        if (count == 14) [
+        if (count == 14) {
             payable(msg.sender).transfer(address(this).balance);
         }
     }
