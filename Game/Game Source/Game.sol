@@ -3,7 +3,7 @@ pragma solidity >0.6.0;
 
 /*
  * @title: ETH Game Gamble.
- * @author: Anthony (fps) https://github.com/fps8k.
+ * @author: Anthony (fps) https://github.com/0xfps.
  * @dev: 
 */
 
@@ -26,7 +26,7 @@ contract Game {
         sent[msg.sender] = true;
         count ++;
 
-        if (count == 14) [
+        if (count == 14) {
             payable(msg.sender).transfer(address(this).balance);
         }
     }
